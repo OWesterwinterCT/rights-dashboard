@@ -1,0 +1,8 @@
+streamlit==1.67.0
+pandas==2.2.3
+numpy==2.3.5
+plotly==7.1.0
+scikit-learn==1.8.0
+langdetect==1.0.9
+scipy==1.17.0
+threadpoolctl==3.6.0

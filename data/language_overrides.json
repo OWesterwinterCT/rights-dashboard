@@ -1,0 +1,41 @@
+{
+  "1T_pBTNnlkOofwiWMoNRSK08T6NcjlGNC": {
+    "status": "english",
+    "bilingual": true,
+    "reason": "Bilingual English/Portuguese framework; English title and body text inspected. Index English passages only."
+  },
+  "1RUKZ6JzbaizOstk6d2IxGKvdIB-BuKlt": {
+    "status": "non_english",
+    "reason": "Image-only source; page 5 OCR inspected and identifies French body text."
+  },
+  "1e7xg4XkOkXJBb1BCi6Nqqq1l22_3j1Dt": {
+    "status": "non_english",
+    "reason": "Image-only source; page 5 OCR inspected and identifies French body text."
+  },
+  "1sdxWTvWAB31HbJ8oZ-Y4a5cR5oUBW-fL": {
+    "status": "duplicate",
+    "duplicate_of": "1M8ZTEKwIAsUxYmcKxsC5ccCrAuq8zhQz",
+    "reason": "Reviewed duplicate Cambodia 2019\u20132023 framework: matching cover, acronym list, terminal planning table and page 122; this copy has corrupted font extraction. Retain the readable copy."
+  },
+  "184Dbx2apdQyKUWsXPuMiMRD1rckyPT0-": {
+    "status": "non_english",
+    "reason": "Font encoding corruption in extraction; rendered page 10 visually verified as Spanish."
+  },
+  "1T6X2DpLr7TL_6np4jMPpToylr-RZl3O7": {
+    "status": "non_english",
+    "reason": "Corrupted text encoding; full-resolution embedded cover image visually verified as Spanish."
+  },
+  "10cH3Y2LKWylb13OKB9ruVylnd3E90TWj": {
+    "status": "english",
+    "bilingual": true,
+    "reason": "Bilingual English/Portuguese framework; title, contents and body inspected. Index English passages only."
+  },
+  "1C1c8ItuFNc-bOF6vKmK22MVMgEs1y6FJ": {
+    "status": "non_english",
+    "reason": "Image-only source; recovered page 5 OCR inspected and identifies French body/contents."
+  },
+  "1j_nFet7E9jzPqsK0GZ19ndrrxSIMjdX2": {
+    "status": "non_english",
+    "reason": "Image-only source; page 5 OCR recovered from actual page-content bounds and identifies Spanish."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "score_file": "df_rights.csv",
+  "origin": "User-provided cleaned CSV",
+  "sha256": "37a8b8f3692f63905800643f6a279e98d356976dcb7d209a8ff282ae7377ff5b",
+  "score_modifications": "None: bundled file is byte-identical to attachment",
+  "year_alignment": "Inherited from supplied CSV; not independently reconstructed",
+  "imputation_flags_available": false,
+  "catalogue_source": "https://drive.google.com/drive/folders/13fTcJiinLQMsXUhnaYiz4dOXTW1ifhX-",
+  "catalogue_retrieved": "2026-11-07",
+  "world_bank_snapshot": "2026-11-07"
+}
